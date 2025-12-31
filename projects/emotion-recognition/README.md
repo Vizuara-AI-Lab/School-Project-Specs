@@ -1,3 +1,5 @@
+# Project Name: Emotion Recognition
+
 ## Issues
 
 ### 1. Poor UI quality and visual structure
@@ -42,9 +44,9 @@ The current visualizations are unclear and do not effectively communicate insigh
 ### 7. Random and unnecessary data normalization section
 ![Random data normalization section](./images/4.png)
 
----
-
 A data normalization section is introduced without sufficient context or necessity. It feels disconnected from the rest of the project flow and breaks conceptual consistency. For the intended audience, this section adds confusion rather than learning value and does not align with the overall narrative of the project.
+
+---
 
 ## Design & Learning Flow
 
@@ -218,3 +220,7 @@ This conclusion should feel reflective and empowering, not technical or overwhel
 - Improve data visualizations so they clearly explain what the data shows and why it matters  
 - Remove or rethink sections that do not directly contribute to learning clarity or project coherence  
 - Include a progress bar that indicates how much learning has been done
+- Create a scoring mechanism that updates score based on the number of questions successfully answered, and exercises successfully completed.
+- The student should not be able to proceed without finishing a section. Finish all exercises and answering all questions counts as finishing a section.
+- **You are free to experiment with design, UI, UX, adding additional sections, and removing something if you think it is not required as long as the main goal of making students understand is served.**
+- **This project is specifically made for 6th graders.**
