@@ -26,3 +26,9 @@ The goal of the changes described here is to:
 ---
 
 ## Repository Structure
+projects/
+└── project-12/
+    ├── README.md
+    └── images/
+        ├── before.png
+        └── after.png
