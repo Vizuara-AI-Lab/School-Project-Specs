@@ -69,10 +69,6 @@ The card design does not align with the overall visual language of the module an
 
 ---
 
-Here’s a **Goals** section crafted in the same style and level of clarity, tailored specifically to the *Titanic Survivor Prediction* project and grounded in the issues you identified:
-
----
-
 ## Goals
 
 * Create a visually engaging yet age-appropriate learning experience for high school students, balancing seriousness with a sense of exploration and discovery
