@@ -51,8 +51,6 @@ Below is an **expanded and improved set of rules**, written in a **clear, profes
    * Every major concept should have a visual representation.
    * Tables and grids must be used wherever data is shown.
 
-
-
 ### 🎨 UI / UX Design Rules (Mandatory)
 
 1. **Consistent Layout System**
@@ -86,6 +84,11 @@ Below is an **expanded and improved set of rules**, written in a **clear, profes
      * Short, simple description
    * Logo and favicon are mandatory.
    * Background must be: (Project Need) or Black/White background
+
+3. **Font**
+   * Use consistent font throughout as much as possible. 
+   * Headings and special sections may a distinct font.
+   * Quicksand/Figtree is preferred for body text.
 
 ### 🎮 Interactivity Rules
 
